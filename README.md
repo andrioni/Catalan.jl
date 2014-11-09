@@ -1,6 +1,8 @@
 catalan
 =======
 
+**THIS PACKAGE IS DEPRECATED**: Please use [Combinatorics.jl](https://github.com/jiahao/Combinatorics.jl) instead.
+
 Catalan: a combinatorics library for Julia, focusing mostly (as of now) on enumerative combinatorics and permutations.
 As overflows are expected even for low values, most of the functions always return `BigInt`, and are marked as such below.
 
