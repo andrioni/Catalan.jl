@@ -1,5 +1,7 @@
 module Catalan
 
+warn("**Catalan.jl IS DEPRECATED**. Please use the new Combinatorics.jl package.")
+
 using Polynomial
 
 export  bell,
